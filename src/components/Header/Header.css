@@ -1,0 +1,40 @@
+.bg {
+  width: 100%;
+  height: 250px;
+  background-image: url("../../img/bg.jpg");
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+}
+
+.btn-signIn {
+  text-decoration: none;
+  color: gray;
+}
+
+.navbar-brand {
+  margin-left: 100px;
+}
+
+.nav-side {
+  margin-right: 100px;
+  margin-top: 20px;
+}
+
+li {
+  list-style: none;
+}
+.nav-side li a {
+  text-decoration: none;
+  list-style: none;
+  color: white;
+}
+
+.nav-side li a button {
+  margin-left: 25px;
+}
+
+.align-items-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
